@@ -1,0 +1,15 @@
+.contenedor{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+.fila{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+.col-12{
+    width: 100%;
+}
